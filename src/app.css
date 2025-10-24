@@ -1,3 +1,42 @@
 @import 'tailwindcss';
-@plugin '@tailwindcss/forms';
-@plugin '@tailwindcss/typography';
+
+
+@theme {
+      --color-kira-orange: #ff6a00;
+      --color-kira-ring-outer: #ff7140;
+      --color-kira-blue: #6aa2ff; 
+      --color-ring: #1f2740; 
+      --color-muted: #90a4bf;
+      --color-fg: #e7ecf6;
+      --color-group-header:#9bb7ff;
+      --color-card: #0e1220;
+}
+
+
+@font-face {
+    font-family: "BankGothic";
+    src: url("/fonts/BankGothic/BankGothicMedium.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Outfit";
+    src: url("/fonts/Outfit-VariableFont_wght.ttf") format("truetype");
+    font-weight: normal;
+    font-style:normal;
+}
+
+
+/* CUSTOM Rocket Scrollbar */
+/* check for accessibility! */
+
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}

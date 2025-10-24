@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 262144 262144"
+   xml:space="preserve"
+   sodipodi:docname="parachute-safe-svgrepo-com.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="../Projects/kira-official-website/static/Projects/kira-official-website/static/svgs/parachute.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   width="262144"
+   height="262144"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5" /><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.59798095"
+   inkscape:cx="321.08046"
+   inkscape:cy="454.02784"
+   inkscape:window-width="1920"
+   inkscape:window-height="1080"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"><inkscape:page
+     x="0"
+     y="0"
+     width="262144"
+     height="262144"
+     id="page2"
+     margin="0"
+     bleed="0" /></sodipodi:namedview>
+<g
+   id="g3">
+	<path
+   style="fill:#bbbbbd"
+   d="m 256.006,422.639 c -3.698,0 -6.694,-2.997 -6.694,-6.694 V 122.031 c 0,-3.698 2.997,-6.694 6.694,-6.694 3.698,0 6.694,2.997 6.694,6.694 v 293.914 c -10e-4,3.697 -2.998,6.694 -6.694,6.694 z"
+   id="path1" />
+	<path
+   style="fill:#bbbbbd"
+   d="m 220.6,422.641 c -2.289,0 -4.52,-1.176 -5.769,-3.29 L 74.166,181.322 c -1.88,-3.183 -0.825,-7.288 2.358,-9.168 3.183,-1.882 7.288,-0.826 9.168,2.358 L 226.357,412.54 c 1.88,3.183 0.825,7.288 -2.358,9.168 -1.068,0.633 -2.241,0.933 -3.399,0.933 z"
+   id="path2" />
+	<path
+   style="fill:#bbbbbd"
+   d="m 291.424,422.641 c -1.157,0 -2.331,-0.301 -3.399,-0.932 -3.183,-1.88 -4.238,-5.986 -2.359,-9.168 L 426.309,174.512 c 1.88,-3.184 5.986,-4.237 9.168,-2.359 3.183,1.88 4.238,5.986 2.359,9.168 l -140.643,238.03 c -1.249,2.115 -3.481,3.29 -5.769,3.29 z"
+   id="path3" />
+</g>
+
+<path
+   style="fill:#fd6227;fill-opacity:0.95"
+   d="m 108.876,175.531 c -17.794,0 -35.588,6.877 -49.037,20.642 H 59.827 C 59.827,87.826 147.653,0 256,0 c 108.347,0 196.161,87.814 196.173,196.161 -26.91,-27.519 -71.176,-27.519 -98.074,0.012 -13.449,-13.765 -31.255,-20.642 -49.049,-20.642 -17.794,0 -35.588,6.877 -49.037,20.642 -13.461,-13.765 -31.255,-20.642 -49.049,-20.642 -17.794,0 -35.588,6.877 -49.037,20.642 -13.45,-13.765 -31.257,-20.642 -49.051,-20.642 z"
+   id="path4" />
+<path
+   style="fill:#fb7e50;fill-opacity:0.95"
+   d="M 254.284,0.012 C 185.444,1.29 129.117,78.43 122.556,176.906 c -4.503,-0.925 -9.092,-1.375 -13.668,-1.375 -17.794,0 -35.588,6.877 -49.037,20.642 H 59.839 C 59.839,88.398 146.728,0.937 254.284,0.012 Z"
+   id="path5" />
+
+</svg>
